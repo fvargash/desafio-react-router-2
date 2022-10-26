@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.main{
+  text-align: center;
+  margin: 10px;
+}
+
+.div-select{
+  text-align: center;
+}
+
+.div-pokedata{
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.pokedata{
+  text-align: center;
+}
+
+.poke-select{
+  width: 200px;
+  text-align: center;
+  display: inline;
+  border-radius: 5px;
+}
+
+.btn-detalle{
+  background-color: black;
+  color: white;
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 47%;
+  border-radius: 5px;
+  margin-top: 10px;
+}
